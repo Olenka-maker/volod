@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(231, 100, 53);
+}
+h1{
+    color: mintcream;
+    text-align: center;
+}
+a{
+    background-color: mintcream;
+    color: rgb(231, 100, 53);
+    padding: 6px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+img{
+    border: 3px solid mintcream;
+}
+p{
+    color: mintcream;
+}
+footer img{
+    width: 50px;
+    height: 50px;
+}
+nav{
+    text-align: center;
+    margin-bottom: 20px;
+}
+h6{
+    text-align: center;
+}
